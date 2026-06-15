@@ -406,15 +406,3 @@ footer{
         padding-right: 30px;
     }
 }
-
-/*Small phones*/
-
-@media (max-width: 480px) {
-    .nav__link:not(:last-child) {
-        display: none;
-    }
-
-    .project__description--para {
-        display: none;
-    }
-}
